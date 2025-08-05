@@ -6,7 +6,7 @@
 
 > **Transparencia:** No somos un medio de noticias ni una campaña/actor político. No vendemos productos ni servicios regulados.
 
- ## ¿Qué es Detective Digital?
+## ¿Qué es Detective Digital?
 **Detective Digital** es un asistente (chatbot) en **WhatsApp** que envía **contenidos educativos cortos** y preguntas de reflexión para ayudar a las personas a evaluar mejor la calidad de la información que circula en redes y mensajería: reconocer señales de alerta, diferenciar opinión de evidencia, detectar sesgos y aprender prácticas simples de verificación.
 
 ### Objetivos
